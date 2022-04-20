@@ -13,7 +13,7 @@ const Login = () => {
 
     useEffect(() => {
         return () => {
-            console.log('logged in ');
+            console.log('login');
         }
     }, []);
 
